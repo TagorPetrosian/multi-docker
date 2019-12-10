@@ -1,10 +1,12 @@
 {
   "cSpell.words": [
+    "elasticbeanstalk",
     "pgdatabase",
     "pghost",
     "pgpassword",
     "pgport",
     "pguser",
-    "postgres"
+    "postgres",
+    "ptagor"
   ]
 }
